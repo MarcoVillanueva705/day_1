@@ -1,0 +1,10 @@
+.text-green {
+  color: orange;
+}
+
+h1.text-green {
+  color: greenyellow;
+  display: inline-block;
+  font-size: 5em;
+  margin: 0;
+}
